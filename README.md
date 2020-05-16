@@ -1,4 +1,4 @@
-# Tree-Bark-Re-Identification
+# Tree Bark Re-Identification
 
 ## Article
 
